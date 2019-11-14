@@ -14,7 +14,17 @@
 
 Effective Java 第三版翻译校对群：[909059971](https://jq.qq.com/?_wv=1027&k=5tscKwN)
 
-![Effective Java 第三版翻译校对群](https://img-blog.csdnimg.cn/20190802232410489.png)
+<center>
+<img width="300" src="http://sjsdfg.gitee.io/effective-java-3rd-chinese/images/groupcode.png" />
+</center>
+
+
+
+##  品牌衣服一折购
+
+<center>
+<img width="400" src="https://upload.cc/i1/2019/10/26/q0FTRg.jpg" />
+</center>
 
 
 
